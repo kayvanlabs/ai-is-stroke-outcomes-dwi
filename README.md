@@ -20,7 +20,7 @@
 ```
 
 ### Usage
-First download the model executables from [Google Drive](https://drive.google.com/drive/folders/1GqAq8Y4tsObN5Q2lPpvnA50KQw0BxGMT?usp=sharing) and unzip them into a dist folder to match the repo structure above. 
+First download the model executables and unzip them into a dist folder to match the repo structure above. 
 
 * To embed a 3D DWI MRI (ie AE encoder): 
   * Follow the preprocessing steps including template matching and brain mask normalization detailed in [Liu et al](https://www.nature.com/articles/s41597-023-02457-9). 
